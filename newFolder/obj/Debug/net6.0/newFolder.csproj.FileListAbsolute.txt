@@ -1,0 +1,15 @@
+S:\proect\C#\First13.09.2022\newFolder\bin\Debug\net6.0\newFolder.exe
+S:\proect\C#\First13.09.2022\newFolder\bin\Debug\net6.0\newFolder.deps.json
+S:\proect\C#\First13.09.2022\newFolder\bin\Debug\net6.0\newFolder.runtimeconfig.json
+S:\proect\C#\First13.09.2022\newFolder\bin\Debug\net6.0\newFolder.dll
+S:\proect\C#\First13.09.2022\newFolder\bin\Debug\net6.0\newFolder.pdb
+S:\proect\C#\First13.09.2022\newFolder\obj\Debug\net6.0\newFolder.csproj.AssemblyReference.cache
+S:\proect\C#\First13.09.2022\newFolder\obj\Debug\net6.0\newFolder.GeneratedMSBuildEditorConfig.editorconfig
+S:\proect\C#\First13.09.2022\newFolder\obj\Debug\net6.0\newFolder.AssemblyInfoInputs.cache
+S:\proect\C#\First13.09.2022\newFolder\obj\Debug\net6.0\newFolder.AssemblyInfo.cs
+S:\proect\C#\First13.09.2022\newFolder\obj\Debug\net6.0\newFolder.csproj.CoreCompileInputs.cache
+S:\proect\C#\First13.09.2022\newFolder\obj\Debug\net6.0\newFolder.dll
+S:\proect\C#\First13.09.2022\newFolder\obj\Debug\net6.0\refint\newFolder.dll
+S:\proect\C#\First13.09.2022\newFolder\obj\Debug\net6.0\newFolder.pdb
+S:\proect\C#\First13.09.2022\newFolder\obj\Debug\net6.0\newFolder.genruntimeconfig.cache
+S:\proect\C#\First13.09.2022\newFolder\obj\Debug\net6.0\ref\newFolder.dll
